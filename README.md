@@ -2,6 +2,7 @@
 UBI 7 Docker container for Ansible playbook and role testing.
 
 [![Build Status](https://travis-ci.com/strus38/docker-ubi7-ansible.svg?branch=master)](https://travis-ci.com/strus38/docker-ubi7-ansible)
+![GitHub issues](https://img.shields.io/github/issues/strus38/docker-ubi7-ansible)
 
 ## Tags
 
