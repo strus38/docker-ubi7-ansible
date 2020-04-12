@@ -2,7 +2,7 @@ FROM registry.access.redhat.com/ubi7/python-36:latest
 LABEL maintainer="strusfr"
 ENV container=docker
 
-ENV pip_packages "ansible"
+ENV pip_packages "ansible yamllint ansible-lint flake8 testinfra molecule"
 
 USER root
 # Silence annoying subscription messages.
